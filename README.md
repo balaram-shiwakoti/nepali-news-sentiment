@@ -49,8 +49,7 @@ Nepali-News-Classifier/
 Clone this repository to your local machine and install the required dependencies:
 
 ```bash
-pip install streamlit scikit-learn pandas numpy
-
+pip install -r requirements.txt
 ```
 
 ### 2. Model Training & Serialization
